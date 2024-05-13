@@ -1,0 +1,3 @@
+cabal build #Construye las dependencias que tengamos, es decir descarga todas las librerias del .cabal.
+cabal install --lib blank-canvas
+cabal install --lib random
