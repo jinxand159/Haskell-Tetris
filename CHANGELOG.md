@@ -1,4 +1,4 @@
-# Revision history for Funcional
+# Revision history for tetrisFunc
 
 ## 0.1.0.0 -- YYYY-mm-dd
 
